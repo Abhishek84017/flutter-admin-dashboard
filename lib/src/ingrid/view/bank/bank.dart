@@ -1,7 +1,7 @@
 import 'package:admin_dashboard/src/ingrid/constant/color.dart';
 import 'package:admin_dashboard/src/ingrid/constant/string.dart';
 import 'package:admin_dashboard/src/ingrid/utils/responsive.dart';
-import 'package:admin_dashboard/src/ingrid/view/bank/Earning_categories.dart';
+import 'package:admin_dashboard/src/ingrid/view/bank/earning_categories.dart';
 import 'package:admin_dashboard/src/ingrid/view/bank/friend_box.dart';
 import 'package:admin_dashboard/src/ingrid/view/bank/income_expose_chart.dart';
 import 'package:admin_dashboard/src/ingrid/view/bank/latest_transaction_bank.dart';
