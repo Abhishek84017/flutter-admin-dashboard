@@ -1,0 +1,59 @@
+PODS:
+  - desktop_drop (0.0.1):
+    - FlutterMacOS
+  - desktop_window (0.0.1):
+    - FlutterMacOS
+  - FlutterMacOS (1.0.0)
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - printing (1.0.0):
+    - FlutterMacOS
+  - url_launcher_macos (0.0.1):
+    - FlutterMacOS
+  - wakelock_macos (0.0.1):
+    - FlutterMacOS
+  - window_size (0.0.2):
+    - FlutterMacOS
+
+DEPENDENCIES:
+  - desktop_drop (from `Flutter/ephemeral/.symlinks/plugins/desktop_drop/macos`)
+  - desktop_window (from `Flutter/ephemeral/.symlinks/plugins/desktop_window/macos`)
+  - FlutterMacOS (from `Flutter/ephemeral`)
+  - path_provider_foundation (from `Flutter/ephemeral/.symlinks/plugins/path_provider_foundation/darwin`)
+  - printing (from `Flutter/ephemeral/.symlinks/plugins/printing/macos`)
+  - url_launcher_macos (from `Flutter/ephemeral/.symlinks/plugins/url_launcher_macos/macos`)
+  - wakelock_macos (from `Flutter/ephemeral/.symlinks/plugins/wakelock_macos/macos`)
+  - window_size (from `Flutter/ephemeral/.symlinks/plugins/window_size/macos`)
+
+EXTERNAL SOURCES:
+  desktop_drop:
+    :path: Flutter/ephemeral/.symlinks/plugins/desktop_drop/macos
+  desktop_window:
+    :path: Flutter/ephemeral/.symlinks/plugins/desktop_window/macos
+  FlutterMacOS:
+    :path: Flutter/ephemeral
+  path_provider_foundation:
+    :path: Flutter/ephemeral/.symlinks/plugins/path_provider_foundation/darwin
+  printing:
+    :path: Flutter/ephemeral/.symlinks/plugins/printing/macos
+  url_launcher_macos:
+    :path: Flutter/ephemeral/.symlinks/plugins/url_launcher_macos/macos
+  wakelock_macos:
+    :path: Flutter/ephemeral/.symlinks/plugins/wakelock_macos/macos
+  window_size:
+    :path: Flutter/ephemeral/.symlinks/plugins/window_size/macos
+
+SPEC CHECKSUMS:
+  desktop_drop: 69eeff437544aa619c8db7f4481b3a65f7696898
+  desktop_window: fb7c4f12c1129f947ac482296b6f14059d57a3c3
+  FlutterMacOS: 8f6f14fa908a6fb3fba0cd85dbd81ec4b251fb24
+  path_provider_foundation: eaf5b3e458fc0e5fbb9940fb09980e853fe058b8
+  printing: 1dd6a1fce2209ec240698e2439a4adbb9b427637
+  url_launcher_macos: 5335912b679c073563f29d89d33d10d459f95451
+  wakelock_macos: bc3f2a9bd8d2e6c89fee1e1822e7ddac3bd004a9
+  window_size: 339dafa0b27a95a62a843042038fa6c3c48de195
+
+PODFILE CHECKSUM: 353c8bcc5d5b0994e508d035b5431cfe18c1dea7
+
+COCOAPODS: 1.12.0
